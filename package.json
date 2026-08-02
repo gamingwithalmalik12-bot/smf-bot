@@ -1,12 +1,13 @@
 {
-"name": "smf-bot",
-"version": "1.0.0",
-"description": "SMF Discord Bot",
-"main": "index.js",
-"scripts": {
-"start": "node index.js"
-},
-"dependencies": {
-"discord.js": "^14.21.0"
-}
+  "name": "smf-bot",
+  "version": "1.0.0",
+  "description": "SMF Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "express": "^4.21.2"
+  }
 }
